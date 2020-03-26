@@ -34,7 +34,7 @@ public class CuntoBlock extends BimbysmodElements.ModElement {
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.WATER).sound(SoundType.GROUND).hardnessAndResistance(1f, 10f).lightValue(0));
+			super(Block.Properties.create(Material.LAVA).sound(SoundType.GROUND).hardnessAndResistance(1f, 10f).lightValue(0));
 			setRegistryName("cunto");
 		}
 
