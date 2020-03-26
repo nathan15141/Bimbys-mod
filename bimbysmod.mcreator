@@ -1,31 +1,10 @@
 {
   "id_map": {},
-  "mod_elements": [
-    {
-      "name": "Cunto",
-      "type": "block",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Snake",
-      "type": "mob",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "entity.bimbysmod.snake": "Snake",
-      "item.bimbysmod.snake": "Snake Spawn Egg",
-      "block.bimbysmod.cunto": "Cunto"
-    }
+    "en_us": {}
   },
   "workspaceSettings": {
     "modid": "bimbysmod",
